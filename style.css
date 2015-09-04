@@ -1,0 +1,18 @@
+#boardElement {
+  border: 1px solid black;
+  margin-top: 30px;
+}
+
+#row1, #row2, #row3 {
+  height: 3em;
+  border: 1px solid green;
+}
+
+.col1, .col2, .col3 {
+  text-align: center;
+
+}
+
+.col1, .col2 {
+  border-right: 1px solid red;
+}
